@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.facebook.com/pphyomaung18/**
 
-[![Pyae Phyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pphyomaung)](https://github.com/pphyomaung/github-readme-stats)
+[![Pyae Phyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pphyomaung)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
